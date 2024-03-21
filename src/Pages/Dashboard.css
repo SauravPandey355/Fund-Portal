@@ -1,0 +1,36 @@
+.dashboard{
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 98vh;
+}
+.header{
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+    height: 4%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.application-name{
+    flex-direction: column;
+    background-color: white;
+    color: black;
+    font-size: large;
+    height: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.search{
+    flex-direction: column;
+    background-color: rgba(16, 90, 238, 0.349);
+    color: black;
+    font-size: large;
+    height: 20%;
+}
